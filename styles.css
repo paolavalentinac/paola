@@ -10,7 +10,7 @@ body {
   }
   
   .container {
-    background-color:  #ffe8f1;
+    background-color:  #f10761;
     border-radius: 8px;
     padding: 20px;
     width: 80%;
@@ -25,13 +25,13 @@ body {
   
   p {
     text-align: center;
-    color:#e0f7fa;
+    color:#8f76fd;
   }
   
   form {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
   }
   
   label {
